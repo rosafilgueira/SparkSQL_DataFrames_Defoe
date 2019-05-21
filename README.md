@@ -3,7 +3,7 @@
 In this repository we have two python parsers based on [spark-xml package](https://github.com/databricks/spark-xml) for ingesting XML documents using Spark SQL and Dataframes. Each parser ingest a type of digital texutal document. 
 
 
-#### Running the spark-xml parser for ALTO and METS XML schemas into dataframes :
+#### Running the spark-xml parser for [ALTO](https://www.loc.gov/standards/alto/) and [METS](http://www.loc.gov/standards/mets/) XML schemas into dataframes :
 
 Used for ingesting Brithish Library (BL) books and Find My Past newspapers. 
 
