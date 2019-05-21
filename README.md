@@ -1,6 +1,6 @@
 # SparkSQL_DataFrames_Defoe
 
-In this repository we have two python parsers (based on spark-xml package) for ingesting XML documents using Spark SQL and Dataframes. Each parser ingest a type of digital texutal document. 
+In this repository we have two python parsers based on [spark-xml package](https://github.com/databricks/spark-xml) for ingesting XML documents using Spark SQL and Dataframes. Each parser ingest a type of digital texutal document. 
 
 
 #### Running the spark-xml parser for ALTO and METS XML schemas into dataframes :
