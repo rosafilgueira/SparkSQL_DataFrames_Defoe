@@ -10,7 +10,7 @@ Used for ingesting Brithish Library (BL) books and Find My Past newspapers.
 
     spark-submit --packages com.databricks:spark-xml_2.11:0.5.0 dataframes_alto.py
   
-#### Running the spark-xml parser for reading BL newspapers XML schemas into dataframes :
+#### Running the spark-xml parser for reading [BL newspapers](https://www.webarchive.org.uk/wayback/archive/20140613220103/http://www.jisc.ac.uk/media/documents/programmes/digitisation/blfinal.pdf) XML schemas into dataframes :
 
 Used for ingesting BL newspapers and Times Digital Archive newspapers:
   
